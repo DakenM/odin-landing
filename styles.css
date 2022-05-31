@@ -3,15 +3,23 @@ body {
     
 }
 
+.headerall {
+    background-color: #1F2937;
+}
 
-
-.header {
+.header1 {
     display: flex;
     align-items: center;
     flex-direction: row;
-    background-color: #1F2937;
     color: #F9FAF8;
     justify-content: space-evenly;
+}
+
+.header2 {
+    display: flex;
+    width: 400px;
+    padding-left: 12rem;
+    flex-wrap: wrap;
 }
 
 .Logo {
@@ -20,4 +28,13 @@ body {
 
 a {
     color:bisque;
+}
+
+.header2 h1 {
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.header2 p {
+    color: #E5E7EB;
 }
