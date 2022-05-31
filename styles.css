@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    
+}
+
+
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: space-evenly;
+}
+
+.Logo {
+    padding-right: 12rem;
+}
+
+a {
+    color:bisque;
+}
