@@ -73,3 +73,13 @@ a {
    border-color: blue;
    border-radius: 20px;
 }
+
+.intel-all {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.goattext {
+    padding-left: 80px;
+}
