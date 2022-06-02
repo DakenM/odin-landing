@@ -86,12 +86,21 @@ a {
 }
 
 .quote-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 3rem;
     background-color: #E5E7EB;
     font-size: 38px;
     color: #1F2937;
     font-style: italic;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
