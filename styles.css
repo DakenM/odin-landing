@@ -84,3 +84,14 @@ a {
     display: flex;
     justify-content: center;
 }
+
+.quote-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    background-color: #E5E7EB;
+    font-size: 38px;
+    color: #1F2937;
+    font-style: italic;
+}
