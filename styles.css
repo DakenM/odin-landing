@@ -104,3 +104,17 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.footer {
+    background-color: #1F2937;
+    color:#E5E7EB;
+    border-color: #1F2937;
+    margin: 0px;
+    padding: 0px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
